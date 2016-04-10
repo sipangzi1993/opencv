@@ -7,7 +7,7 @@
 using namespace std;
 using namespace cv;
 
-/*啦啦啦啦啦啦啦啦啦啦啦啦我是卖报的小行家  @死胖子1993*/
+/*啦啦啦啦啦啦啦啦啦我是卖报的小行家  @死胖子1993*/
 
 int main( int argc, char* argv[] )
 {
